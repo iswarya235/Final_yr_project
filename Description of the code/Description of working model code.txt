@@ -1,0 +1,9 @@
+-> Run and upload the arduino code (final) after connecting the system with the mentioned wifi in the code
+-> Open command prompt and move to the file destination 
+     [cd "file location"]
+-> Run the training code for each algorithm to know how accurate they work
+     [python filename.py]
+-> You'll be getting the accuracies of each algorithm 
+-> Run the final code which has face recognition and the most accurate algorithm found is coded in it
+     [python esp_python.py]
+-> You'll get the final working result

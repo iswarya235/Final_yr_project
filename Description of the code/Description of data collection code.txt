@@ -1,0 +1,5 @@
+-> Run the arduino code on having the wifi mentioned in the code connected to the system 
+-> The channel ID and secret API key of the ThingSpeak profile connected should be mentioned in the arduino code
+-> Open ThingSpeak platform and login to your page 
+-> You'll see the live recording of data 
+-> The data recorded can be exported from the platform
